@@ -2,7 +2,9 @@
 
 **A Generative art inspired physical system**, used to render interactive paintings with flocking active matter. More works at [DecodingKunst](https://www.instagram.com/decodingkunst/).
 
-This code solves a system of "self-propelling" active disks, of varying sizes and velocities, with alignment interactions and some noise. A few different rendering techniques are available for visualizations. The alignment interactions routine is a modification of the method given in: [Martín-Gómez *et al.*](https://arxiv.org/pdf/1801.01002.pdf), *``Collective motion of active Brownian particles with polar alignment"*, Soft matter **14(14)**, pp.2610-2618 (2018).
+This [Processing](https://processing.org/) code solves a system of "self-propelling" active disks, of varying sizes and velocities, with alignment interactions and some noise. A few different rendering techniques are available for visualizations. The alignment interactions routine is a modification of the method given in: [Martín-Gómez *et al.*](https://arxiv.org/pdf/1801.01002.pdf), *``Collective motion of active Brownian particles with polar alignment"*, Soft matter **14(14)**, pp.2610-2618 (2018).
+
+**NOTE:** This code can be run locally in the Processing IDE, or online at [OpenProcessing](https://openprocessing.org/sketch/2037595).
 
 ## How to interact with the code:
 
